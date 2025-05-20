@@ -1,0 +1,9 @@
+# 忽略 CMake缓存和生成文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+# 忽略编译生成的可执行文件
+ChatClient
+ChatServer
